@@ -1,0 +1,13 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: sans-serif;
+	font-size: 18px;
+	color: #444;
+	background-color: #e0e0e0;
+}
+h1{
+	color: #222;
+	text-align: center;
+}
